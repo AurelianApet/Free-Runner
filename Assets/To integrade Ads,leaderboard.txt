@@ -1,0 +1,8 @@
+
+
+Adnetworks are done seperatly without integrating inside gameplay code.
+after game end ,a event will be will be called from gameEnd.cs script ,by subscribing 
+to this event we are displaying ad . this is was done in aceadmanager.cs . 
+
+to enter your own adnetworks ids ,open adnetworIDS.cs script ,ther you will find static strings for both ios and android.
+just replace with yours .
